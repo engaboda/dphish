@@ -1,0 +1,12 @@
+django==3.2.25
+djangorestframework==3.14.0
+django-environ==0.11.1
+requests==2.31.0
+ipinfo==4.4.2
+celery==5.3.6
+ipython==7.20.0
+channels==4.0.0
+daphne==4.1.0
+channels_redis==4.1.0
+websocket-client==1.7.0
+sqlalchemy==2.0.29
